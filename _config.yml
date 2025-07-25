@@ -110,7 +110,7 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
+'''
 # Site Author
 author:
   name             : ""
@@ -137,7 +137,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+'''
 # Site Footer
 footer:
   links:
