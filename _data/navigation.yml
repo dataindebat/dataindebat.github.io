@@ -3,9 +3,11 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Posts"
-    url: /year-archive/
+    url: /archive/
   - title: "Over Data in Debat"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /about/
+  - title: "Contact"
+    url: /contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
